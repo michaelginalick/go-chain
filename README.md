@@ -1,5 +1,8 @@
 # chain
 
+[![test](https://github.com/michaelginalick/aws-sqs-consumer/actions/workflows/test.yml/badge.svg)](https://github.com/michaelginalick/go-chain/actions/workflows/test.yml) 
+[![GoDoc](https://godoc.org/github.com/michaelginalick/go-chain?status.svg)](https://godoc.org/github.com/michaelginalick/go-chain)
+
 A generic, type-safe Chain of Responsibility implementation written in Go.
 
 ## Installation
