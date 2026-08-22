@@ -8,7 +8,7 @@ A generic, type-safe Chain of Responsibility implementation written in Go.
 ## Installation
 
 ```
-go get github.com/michaelginalick/chain
+go get github.com/michaelginalick/go-chain
 ```
 
 Requires Go 1.21+.

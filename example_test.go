@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	chain "github.com/michaelginalick/chain"
+	chain "github.com/michaelginalick/go-chain"
 )
 
 // Example shows a request-processing pipeline where each named rule identifies
