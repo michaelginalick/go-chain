@@ -54,7 +54,6 @@ func NamedFunc[T any](name string, fn func(context.Context, T) error) Rule[T] {
 type Chain[T any] struct {
 	head *node[T]
 	tail *node[T]
-	chainFuncs []*node[T]
 }
 
 type node[T any] struct {
